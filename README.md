@@ -138,7 +138,7 @@ Agora que temos nosso ambiente Python todo configurado, podemos começar a traba
 jupyter notebook
 ```
     
-## Uso/Exemplos
+## Exemplo Modelo ML NLP
 
 ```
 # Importação das bibliotecas
