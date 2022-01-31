@@ -283,10 +283,6 @@ plt.figure(figsize = (10,7))
 sns.set(font_scale=1.4)
 plt.title("Matrix confusion - Logistic Regression")
 matrix = sns.heatmap(matrix, cmap = 'Paired', annot=True, annot_kws = {"size": 20}, fmt = "")
-
-
-
-
 }
 ```
 
