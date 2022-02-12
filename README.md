@@ -69,7 +69,7 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 | Fake News Classification |https://www.kaggle.com/ruchi798/source-based-news-classification|
 | COVID-19 Fake News |https://www.kaggle.com/arashnic/covid19-fake-news|
 | COVID Fake News |https://www.kaggle.com/thesumitbanik/covid-fake-news-dataset|
-| COVID19 Fake News NLP |https://www.kaggle.com/elvinagammed/covid19-fake-news-dataset-nlp|
+| COVID19 Fake News NLP |[Covid19 Fake News](https://www.kaggle.com/elvinagammed/covid19-fake-news-dataset-nlp)|
 
 ## Variáveis de Ambiente
 
