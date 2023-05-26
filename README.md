@@ -27,17 +27,29 @@
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
 
-![Logo](https://as1.ftcdn.net/v2/jpg/03/32/17/72/1000_F_332177239_NSCVEuDO0OkNORhEQt9XjYrVp5NBK6WX.jpg)
+![Logo](https://img.freepik.com/vetores-gratis/pare-o-conceito-de-bullying_23-2148593287.jpg?w=826&t=st=1685108207~exp=1685108807~hmac=5e88501a784fa7e82bdba3c860d24ff23fafb29691023629b41f337be710aa0e)
 
-## Apêndice
+## Descrição projeto
 
-Machine learning - Projetos voltado para NLP aplicado fake news.
+Com a proliferação de informações falsas e desinformação na era digital, a identificação de notícias falsas (também conhecidas como fake news) tornou-se um desafio significativo. Neste projeto, propomos a utilização de técnicas de machine learning e processamento de linguagem natural (NLP) para desenvolver um sistema capaz de identificar notícias falsas de maneira automatizada e eficiente.
 
-- Classificação nóticias fake, real
-- Modelos machine learning NLP
-- Modelo NLP decteção de fráses nóticias falsas Covid19 
-- NLP Detecção de nóticias falsas e real
-- Deploy do modelo NLP 
+# Metodologia
+A metodologia adotada para identificar notícias falsas envolverá as seguintes etapas:
+
+A) Coleta de Dados: Faremos a coleta de um conjunto de dados de notícias, contendo exemplos de notícias verdadeiras e falsas. Esses dados podem ser obtidos a partir de diversas fontes, incluindo sites de notícias, redes sociais ou repositórios específicos de notícias falsas.
+
+B) Pré-processamento de Dados: Realizaremos a limpeza e o pré-processamento dos dados coletados. Isso inclui a remoção de caracteres especiais, pontuações, stopwords e outras etapas de normalização do texto.
+
+C) Extração de Recursos: Utilizaremos técnicas de NLP para extrair recursos relevantes das notícias. Isso pode envolver a criação de representações vetoriais das palavras (como Word Embeddings) e a extração de características específicas, como frequência de termos, n-grams, presença de entidades nomeadas, entre outros.
+
+D) Treinamento do Modelo: Utilizaremos algoritmos de machine learning, como classificação binária (por exemplo, Naive Bayes, SVM, Random Forest) ou abordagens mais avançadas, como redes neurais, para treinar um modelo capaz de distinguir entre notícias verdadeiras e falsas. Os dados de treinamento serão alimentados com os recursos extraídos das notícias.
+
+E) Avaliação do Modelo: Avaliaremos o desempenho do modelo utilizando métricas como precisão, recall, acurácia e F1-score. Também será importante considerar a validação cruzada e técnicas de ajuste de hiperparâmetros para garantir um desempenho confiável do modelo.
+
+F) Teste e Implantação: Após a validação do modelo, poderemos testá-lo em novos conjuntos de dados para verificar sua capacidade de generalização. Uma vez que o modelo esteja pronto, ele poderá ser implementado em um sistema em tempo real para a identificação automatizada de notícias falsas.
+
+# Conclusão
+Este projeto visa abordar o desafio da identificação de notícias falsas através da utilização de técnicas de machine learning e processamento de linguagem natural (NLP). Ao desenvolver um modelo capaz de distinguir entre notícias verdadeiras e falsas, podemos auxiliar na disseminação de informações confiáveis e combater a desinformação. A detecção automatizada de notícias falsas pode contribuir significativamente para a sociedade, promovendo uma compreensão mais precisa dos eventos e minimizando o impacto negativo das informações enganosas. No entanto, é importante ressaltar que a implementação desse sistema não substitui a responsabilidade individual de verificar a veracidade
 
 
 ## Stack utilizada
@@ -51,11 +63,6 @@ Machine learning - Projetos voltado para NLP aplicado fake news.
 **Análise de dados**: Seaborn, Matplotlib
 
 **Modelo machine learning - Processo de linguagem natural**: NLTK, TextBlob
-
-
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
 ## Projeto realizado
 
