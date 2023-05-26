@@ -29,7 +29,7 @@
 
 ![Logo](https://img.freepik.com/vetores-gratis/pare-o-conceito-de-bullying_23-2148593287.jpg?w=826&t=st=1685108207~exp=1685108807~hmac=5e88501a784fa7e82bdba3c860d24ff23fafb29691023629b41f337be710aa0e)
 
-## Descrição projeto
+# Descrição projeto
 
 Com a proliferação de informações falsas e desinformação na era digital, a identificação de notícias falsas (também conhecidas como fake news) tornou-se um desafio significativo. Neste projeto, propomos a utilização de técnicas de machine learning e processamento de linguagem natural (NLP) para desenvolver um sistema capaz de identificar notícias falsas de maneira automatizada e eficiente.
 
