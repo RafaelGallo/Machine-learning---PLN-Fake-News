@@ -335,5 +335,5 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 ## Suporte
 
-Para suporte, mande um email para rafaelhenriquegallo@gmail.com.
+Para suporte, mande um email para rafaelhenriquegallo@gmail.com
 
